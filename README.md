@@ -13,11 +13,3 @@ I'm a Software Engineer/Lead with a keen interest in
 - Software Design, Patterns and Practices
 
 I currently work at [**Canva**](https://canva.com/) as a Technical Lead of Search & Recommendations.
-
-## GitHub Stats
-
-<a href="https://github.com/russcam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=russcam&show_icons=true&count_private=true&theme=dark" alt="Russ Cam's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russcam&layout=compact&theme=dark" 
-    alt="Russ Cam's GitHub Top Languages" />
-</a>

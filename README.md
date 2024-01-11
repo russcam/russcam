@@ -12,4 +12,4 @@ I'm a Software Engineer/Lead with a keen interest in
 - Message-driven architectures
 - Software Design, Patterns and Practices
 
-I am Technical Lead in Search & Recommendations at [**Canva**](https://canva.com/).
+I am a Technical Lead in Search & Recommendations at [**Canva**](https://canva.com/).

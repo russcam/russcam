@@ -11,5 +11,3 @@ I'm a Software Engineer/Lead with a keen interest in
 - Cloud computing
 - Message-driven architectures
 - Software Design, Patterns and Practices
-
-I am a Technical Lead in Search & Recommendations at [**Canva**](https://canva.com/).
